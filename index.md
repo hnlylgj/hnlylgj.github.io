@@ -1,58 +1,37 @@
-﻿### 个人信息
+## Welcome to GitHub Pages
 
-####姓  名： 	李庚君	           
-####性 别：     男
-####出生日期：	1974年2月10日	 
-####居住地：    广州-天河区东圃珠吉路吉山村嘉熙公寓
-####工作年限：	10年以上	    
-####电子邮件：  hnlylgj@foxmail.com
-####手  机：    18520023795      
-####身 高：     170cm         
-####毕业学校：	长沙铁道学院       
-####学 历：     本科      
-####英语等级：	GET-4         
-####专 业：     计算机本科
+You can use the [editor on GitHub](https://github.com/hnlylgj/hnlylgj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Markdown
 
-### 自我评价
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-精通E-R建模、UML建模；对敏捷软件工程开发方法论、领域驱动以及高度可重用架构设计方法论有较好的研究和实践经验。熟悉流行的开发语言（如C++/JAVA//C#等),精通Java EE/SSH，dubbo/springcloud以及Netty，WCF技术架构应用开发。对分布式计算架构和多层结构软件架构技术有深刻见解。精通Android平台音频视频实时通讯和消息推送开发技术以及Linux C/C++与高并发网络编程；熟悉MySQL、ORACLE、SQLSERVER等数据库系统和redis/mongoDB等NOSQL，Java EE主流开源应用程序服务器(如pache/TOMCAT/JBOSS/Weblogic)安装配置以及熟悉多种配置管理工具（如VSS/CVS等）。很好技术方案写作能力.对项目规划和需求分析经验丰富，认真负责，诚实守信。多年的一线软件开发和项目管理实践。
+```markdown
+Syntax highlighted code block
 
-### 求职意向
+# Header 1
+## Header 2
+### Header 3
 
-到岗时间：	一个月内
-工作性质：	全职
-希望行业：	计算机软件；计算机服务(系统、数据服务、维修)；互联网/电子商务
-目标地点：	广州
-期望薪水：	20000-30000/月
-目标职能：	高级软件工程师；项目管理；系统架构设计师；其他
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
-### 工作经验
+**Bold** and _Italic_ and `Code` text
 
-2015/12--2017/12：广州兴茂信息科技有限公司（20-30人）
-所属行业：	计算机软件
-研发部    高级软件工程师 
-主要从事智慧校园大型平台系统分析、架构设计、项目规划与重点难点攻关等工作
-________________________________________
-2012/5--2015/10：广东第吉尔信息系统有限公司（100-150人）
-所属行业：	计算机软件
-技术研发部    高级软件工程师 
-主要从事智能门锁系统架构设计、技术难点攻关及项目管理等工作
+[Link](url) and ![Image](src)
+```
 
-________________________________________
-2007/2--2013/8：广州金喜信息系统有限公司（50-150人）
-所属行业：	计算机软件
-软件事业部    高级软件工程师 
-主要从事银行信用卡智能帐单系统（BI系统）系统分析与技术开发等工作
-________________________________________
-2004/2--2007/4：(广州)依时利智能科技有限公司（150-500人）
-所属行业：	计算机软件
-研发部    高级软件工程师 
-主要从事一卡通（收费，考勤，门禁）信息系统设计开发。
-________________________________________
-2001/2--2004/2：(广州)德柯科技有限公司（150-500人）
-所属行业：	计算机软件
-研发部    软件工程师 
-主要从事IC卡收费系统设计开发
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hnlylgj/hnlylgj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
