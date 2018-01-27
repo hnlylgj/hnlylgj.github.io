@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hnlylgj/hnlylgj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hnlylgj/hnlylgj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+﻿<!--#include file="tron.min.asp" -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>PJBlog5 Installer</title>
+<link rel="stylesheet" type="text/css" href="css/pjblog5.css"/>
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+</head>
+<body>
+	<div class="header">
+    	<div class="container">
+        	<div class="logo">
+            	<div class="name">
+                	<span>PJ</span>Blog<sup>5</sup><sub>The most popular blog software.</sub>
+                </div>
+                <div class="link">
+                	<div class="version"><a href="https://github.com/cevio/tronjs.js" target="_blank"><i class="fa fa-bug"></i>TronASP FrameWork like nodejs.</a></div>
+                    <div class="code"><i class="fa fa-flask"></i>Use javascript which run at server.</div>
+                    <div class="support">
+                    	<a href="" class="fa fa-html5"></a>
+                    	<a href="" class="fa fa-apple"></a>
+                        <a href="" class="fa fa-android"></a>
+                    	<a href="" class="fa fa-github"></a>
+                    	<a href="" class="fa fa-vimeo-square"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <%
+		var file = http.query("m") || "copyright";
+		include("./view-" + file + ".asp");
+	%>
+</body>
+</html>
